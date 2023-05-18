@@ -1,0 +1,5 @@
+file:
+  route:
+    directory:
+      entrada: file:src/main/resources/entrada?delete=true
+      saida: file:src/main/resources/saida
